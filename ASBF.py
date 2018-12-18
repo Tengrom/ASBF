@@ -1,6 +1,5 @@
 import multiprocessing
 from exchangelib import DELEGATE, IMPERSONATION, Account, Credentials, ServiceAccount, EWSDateTime, EWSTimeZone, Configuration, NTLM, GSSAPI, CalendarItem, Message,  Mailbox, Attendee, Q, ExtendedProperty, FileAttachment, ItemAttachment, HTMLBody, Build, Version, FolderCollection
-#!/usr/bin/python
 import sys, getopt
 from time import sleep
 import time
