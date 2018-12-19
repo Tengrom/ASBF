@@ -2,6 +2,7 @@
 ActiveSync Brute Force tester 
 
 Do not Target on something what you are not a owner and without formal approvals !!
+
 Script is using basic authentication protocol. Witch should be disabled on mailboxs. 
 
 How to run 
