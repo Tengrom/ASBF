@@ -62,7 +62,7 @@ def connection(process_name,tasks,result_multi,return_dict):
             except Exception, e:
                 print(str(e)+" USER: "+User+" password: "+Password)
             result_multi.put("end")
-    return "dupa"
+    return "something"
 # Define IPC manager
 manager = multiprocessing.Manager()
 # Define a list (queue) for tasks and computation results
